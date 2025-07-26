@@ -1,0 +1,4 @@
+[build]
+  base = "client"
+  publish = "client/build"         # For Create React App (CRA)
+  command = "npm run build"
